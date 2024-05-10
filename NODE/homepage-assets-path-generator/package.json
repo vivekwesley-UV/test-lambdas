@@ -1,0 +1,14 @@
+{
+  "name": "homepage-image-paths-generator-refresh",
+  "version": "1.0.0",
+  "description": "Generates paths for image assets for homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek Wesley",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

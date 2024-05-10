@@ -1,0 +1,10 @@
+/target/aarch64-unknown-linux-musl/release/deps/libasync_stream-20ade86c77a42c29.rmeta: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs
+
+/target/aarch64-unknown-linux-musl/release/deps/libasync_stream-20ade86c77a42c29.rlib: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs
+
+/target/aarch64-unknown-linux-musl/release/deps/async_stream-20ade86c77a42c29.d: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs
+
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs:

@@ -1,0 +1,10 @@
+/target/aarch64-unknown-linux-musl/release/deps/libuntrusted-86aa5fed948f0b91.rmeta: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs
+
+/target/aarch64-unknown-linux-musl/release/deps/libuntrusted-86aa5fed948f0b91.rlib: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs
+
+/target/aarch64-unknown-linux-musl/release/deps/untrusted-86aa5fed948f0b91.d: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs
+
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/lib.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/input.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/no_panic.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/untrusted-0.9.0/src/reader.rs:

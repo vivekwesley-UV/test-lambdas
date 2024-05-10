@@ -1,0 +1,9 @@
+/target/release/deps/libfutures_macro-c40ed2365ee6b3a0.so: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/executor.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/join.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/select.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/stream_select.rs
+
+/target/release/deps/futures_macro-c40ed2365ee6b3a0.d: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/executor.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/join.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/select.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/stream_select.rs
+
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/lib.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/executor.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/join.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/select.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.30/src/stream_select.rs:

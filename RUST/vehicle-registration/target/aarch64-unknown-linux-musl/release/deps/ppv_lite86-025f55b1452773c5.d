@@ -1,0 +1,10 @@
+/target/aarch64-unknown-linux-musl/release/deps/libppv_lite86-025f55b1452773c5.rmeta: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/target/aarch64-unknown-linux-musl/release/deps/libppv_lite86-025f55b1452773c5.rlib: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/target/aarch64-unknown-linux-musl/release/deps/ppv_lite86-025f55b1452773c5.d: /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs:
+/mnt/c/Users/Vivek\ Wesley/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs:
